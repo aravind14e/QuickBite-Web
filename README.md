@@ -14,7 +14,7 @@ QuickBite is a modern, responsive food delivery web application built with React
 ## Screenshots
 
 ### Home Page & Hero Section
-![Home Page](<img width="1835" height="797" alt="menu-categories" src="https://github.com/user-attachments/assets/f4ec44f7-1871-451c-91c1-279b2fb83179" />
+![Home Page](<img width="1835" height="797" alt="menu-categories" src="https://github.com/user-attachments/assets/f4ec44f7-1871-451c-91c1-279b2fb83179 />
 )
 *Our welcoming homepage featuring a delectable array of dishes and our mission statement.*
 
