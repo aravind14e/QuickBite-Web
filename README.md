@@ -20,26 +20,31 @@ QuickBite is a modern, responsive food delivery web application built with React
 *Our welcoming homepage featuring a delectable array of dishes and our mission statement.*
 
 ### Menu Categories
-![Menu Categories](screenshots/menu-categories.png)
+![Menu Categories](https://github.com/user-attachments/assets/17fb474a-e4a4-4c03-970a-533e313c3625)
 *Explore our diverse menu categories including Salads, Rolls, Desserts, Sandwiches, and more.*
 
 ### Shopping Cart
-![Shopping Cart](screenshots/cart.png)
+![Shopping Cart](https://github.com/user-attachments/assets/6997cfb9-ddf8-470a-8342-03a1d61fef9b)
+
 *Easy-to-use shopping cart with item management and delivery fee calculation.*
 
 ### Checkout Process
-![Delivery Details](screenshots/delivery-details.png)
+![Delivery Details](https://github.com/user-attachments/assets/983d0bd0-19ec-4581-b267-0e7b4e725df1)
+
 *Simple and secure delivery information collection.*
 
-![Payment Options](screenshots/payment-options.png)
-*Multiple payment options including Cash on Delivery, Card, and UPI.*
+![Payment Options](https://github.com/user-attachments/assets/c9f8bf57-ad98-4c64-a111-a3a3ae0bd989)
+*Multiple payment options including Cash on 
+Delivery, Card, and UPI.*
 
 ### Order Tracking
-![Order Status](screenshots/order-status.png)
+![Order Status](https://github.com/user-attachments/assets/e98eee42-1ad7-4b88-8e39-30831c0fe905)
+
 *Track your order status and view order details.*
 
 ### Mobile App Promotion
-![Mobile App](screenshots/app-promotion.png)
+![Mobile App](https://github.com/user-attachments/assets/0a7b6258-284b-42d4-af67-b810fc2afb75)
+
 *Download our mobile app for an enhanced ordering experience.*
 
 ## Tech Stack
@@ -146,17 +151,4 @@ Food-Web-App/
 - GET `/api/orders` - Get user's orders
 - GET `/api/orders/:id` - Get order by ID
 
-## Contributing
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-## Acknowledgments
-
-- Font Awesome for the icons
-- React community for the amazing framework
-- All contributors who have helped in building this project
